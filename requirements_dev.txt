@@ -1,4 +1,4 @@
-#-r requirements.txt
+#-r requirements_dev.txt
 
 mypy==0.782
 coverage==5.2
