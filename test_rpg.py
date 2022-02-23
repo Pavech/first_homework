@@ -8,7 +8,7 @@ rpg = importlib.import_module("main")
 
 
 class RpgTestCase(TestCase):
-    """Юнит тест для домашнего задания 1."""
+    """Юнит тест для домашнего задания  1."""
 
     def setUp(self) -> None:
         """Начальные условия для тестов."""
